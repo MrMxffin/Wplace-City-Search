@@ -1,5 +1,5 @@
 # Wplace City Search
-<a href="https://wplacestatus.sobakintech.xyz" target="_blank" rel="noopener noreferrer"><img alt="Wplace Status" src="https://status.wplace.lol/api/badge/15/status"></a>
+Wplace Status: <a href="https://wplacestatus.sobakintech.xyz" target="_blank" rel="noopener noreferrer"><img alt="Wplace Status" src="https://status.wplace.lol/api/badge/15/status"></a>
 
 A Tampermonkey userscript that adds a city search feature to [wplace.live](https://wplace.live/). It allows navigation to specific coordinates by typing a city name and selecting from suggestions.
 
