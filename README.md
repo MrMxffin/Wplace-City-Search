@@ -14,7 +14,7 @@ A Tampermonkey userscript that adds a city search feature to [wplace.live](https
    - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)  
    - [Edge](https://www.microsoft.com/store/productId/9NBLGGH5162S)  
 
-2. Open the [userscript](Wplace%20City%20Search-0.1.0.user.js) file in the repository.  
+2. Open the [userscript](Wplace%20City%20Search-0.3.0.user.js) file in the repository.  
 3. Tampermonkey will prompt for installation. Confirm installation.  
 4. Open [wplace.live](https://wplace.live/) to use the search.
 
